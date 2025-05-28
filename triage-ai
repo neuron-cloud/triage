@@ -269,7 +269,7 @@ def quick_triage(clinical_text: str, api_key: str) -> TriageResult:
 
 if __name__ == "__main__":
     # Your API credentials
-    API_KEY = "AIzaSyAUeHEIsHp-EH3UaurOEDV9YNF-DJpkX1s"
+    API_KEY = "Your Google Gemini API Key"
     PROJECT_ID = "gen-lang-client-0847581252"
     
     # Example clinical scenarios for testing
