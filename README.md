@@ -231,7 +231,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## ⚠️ Medical Disclaimer
 
-This software is not FDA approved and should not be used as a medical device. It is intended for research and development purposes only. Healthcare providers must use their clinical judgment and follow institutional protocols. The authors and contributors assume no liability for clinical decisions made using this tool.
+This software is not FDA-approved and should not be used as a medical device. It is intended for research and development purposes only. Healthcare providers must use their clinical judgment and follow institutional protocols. The authors and contributors assume no liability for clinical decisions made using this tool.
 
 ## 🙏 Acknowledgments
 
@@ -241,9 +241,9 @@ This software is not FDA approved and should not be used as a medical device. It
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/triage-ai/issues)
-- **Documentation**: [Full Documentation](https://yourusername.github.io/triage-ai)
-- **Email**: triage-ai-support@example.com
+- **Issues**: [GitHub Issues](https://github.com/neuron-cloud/triage-ai/issues)
+- **Documentation**: [Full Documentation](https://neuron-cloud.github.io/triage-ai)
+- **Email**: mwdelgardo@gmail.com
 
 ---
 
